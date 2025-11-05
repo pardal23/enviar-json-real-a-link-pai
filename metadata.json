@@ -1,0 +1,5 @@
+{
+  "name": "React JSON Editor & API Tool",
+  "description": "A web application to view, edit, validate, and send JSON data to remote APIs. It includes functionality for both POST and GET requests with an automatic CORS proxy fallback.",
+  "requestFramePermissions": []
+}
